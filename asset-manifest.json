@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tic_tac_toe_game/static/css/main.f9729e37.chunk.css",
-    "main.js": "/tic_tac_toe_game/static/js/main.f14a7320.chunk.js",
-    "main.js.map": "/tic_tac_toe_game/static/js/main.f14a7320.chunk.js.map",
+    "main.css": "/tic_tac_toe_game/static/css/main.40e674e7.chunk.css",
+    "main.js": "/tic_tac_toe_game/static/js/main.94bed64a.chunk.js",
+    "main.js.map": "/tic_tac_toe_game/static/js/main.94bed64a.chunk.js.map",
     "runtime-main.js": "/tic_tac_toe_game/static/js/runtime-main.e4b262d5.js",
     "runtime-main.js.map": "/tic_tac_toe_game/static/js/runtime-main.e4b262d5.js.map",
     "static/js/2.35d50927.chunk.js": "/tic_tac_toe_game/static/js/2.35d50927.chunk.js",
     "static/js/2.35d50927.chunk.js.map": "/tic_tac_toe_game/static/js/2.35d50927.chunk.js.map",
     "index.html": "/tic_tac_toe_game/index.html",
-    "static/css/main.f9729e37.chunk.css.map": "/tic_tac_toe_game/static/css/main.f9729e37.chunk.css.map",
+    "static/css/main.40e674e7.chunk.css.map": "/tic_tac_toe_game/static/css/main.40e674e7.chunk.css.map",
     "static/js/2.35d50927.chunk.js.LICENSE.txt": "/tic_tac_toe_game/static/js/2.35d50927.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e4b262d5.js",
     "static/js/2.35d50927.chunk.js",
-    "static/css/main.f9729e37.chunk.css",
-    "static/js/main.f14a7320.chunk.js"
+    "static/css/main.40e674e7.chunk.css",
+    "static/js/main.94bed64a.chunk.js"
   ]
 }
